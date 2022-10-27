@@ -1,6 +1,6 @@
 # NgFundamentals
 
-https://github.com/jmcooper/angular-fundamentals-files/blob/master/src/app/errors/404.component.ts
+https://github.com/jmcooper/angular-fundamentals-files/blob/master
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
