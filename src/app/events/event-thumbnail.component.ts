@@ -5,7 +5,7 @@ import { IEvent } from './shared';
     selector: 'event-thumbnail',
     // templateUrl: './event-thumbnail.component.html'
     template: `
-    <div [routerLink]="['/events', event.id]" class="well hoverwell thumbnail">
+    <div [routerLink]="['/events', event?.id]" class="well hoverwell thumbnail">
     <h2>{{event?.name}}</h2>
     <div>Price: \${{ event?.price }}</div>
     <div>Date: {{ event?.date }}</div>
